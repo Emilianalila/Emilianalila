@@ -1,5 +1,6 @@
 ### Hi there 👋
 My name is Emiliana
+
 Budding Frontend Developer
 
 I am actively seeking my initial role as a junior software developer, while also obtaining a Diploma in Web Development to enhance my skills and knowledge in the field.

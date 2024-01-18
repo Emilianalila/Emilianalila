@@ -1,5 +1,23 @@
 ### Hi there 👋
 
+Hi My name is Emiliana
+Budding Frontend Developer
+I am actively seeking my initial role as a junior software developer, while also obtaining a Diploma in Web Development to enhance my skills and knowledge in the field.
+
+🖥️  portfolio
+✉️  You can contact me 
+🧠  Currently learning typeScript and TDD.
+Skills
+JavaScript HTML5 React CSS3 Bootstrap NodeJS Express MongoDB
+
+Socials
+
+
+
+
+
+
+
 <!--
 **Emilianalila/Emilianalila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -3,10 +3,10 @@ My name is Emiliana
 
 Budding Frontend Developer
 
-🧠  Currently learning typeScript and TDD.
+🧠  Currently learning Java.
 
 Skills
-JavaScript HTML5 React CSS Bootstrap NodeJS Express MongoDB Mocha.
+JavaScript HTML5 React CSS Bootstrap NodeJS Express Mocha.
 
 
 

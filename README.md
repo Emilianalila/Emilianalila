@@ -1,11 +1,11 @@
 ### Hi there 👋
 My name is Emiliana
 
-Budding Frontend Developer
+Full Stack Java Developer
 
-🧠  Currently learning Java.
+🧠  Currently working at Salt.
 
 Skills
-JavaScript HTML5 React CSS Bootstrap NodeJS.
+HTML5 CSS Bootstrap Javascript React TypeScript NodeJS Java Rest API JPA.
 
 

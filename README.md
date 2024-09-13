@@ -1,4 +1,4 @@
-### Hi there! 👋 I'm Emiliana
+## Hi there! 👋 I'm Emiliana
 
 A passionate software developer from Argentina 🇦🇷.
 <br>

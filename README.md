@@ -12,7 +12,7 @@ Here are some of the languages, frameworks and tools I work with:
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,materialui,figma,js,ts,react,nextjs,vite)
 
-![My Skills](https://skillicons.dev/icons?i=java,nodejs,maven,docker,postgres,zure,netlify,vercel,git,idea,vscode,postman)
+![My Skills](https://skillicons.dev/icons?i=java,nodejs,maven,docker,postgres,azure,netlify,vercel,git,idea,vscode,postman)
 
 ## 🌱 Currently learning:
 - Improving my knowledge of cloud services (Google Cloud, Supabase)

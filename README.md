@@ -1,11 +1,36 @@
-### Hi there 👋
-My name is Emiliana
+### Hi there! 👋 I'm Emiliana
 
-Full Stack Java Developer
+A passionate software developer from Argentina 🇦🇷.**
+Currently living in Sweden 🇸🇪.**
 
-🧠  Currently working at Salt.
+## 👩🏻‍💻 Currently working at:
+**Salt** - As a Full Stack Developer.
 
-Skills
-HTML5 CSS Bootstrap Javascript React TypeScript NodeJS Java Rest API JPA.
+## 🛠 Tech Stack 🛠:
+Here are some of the languages, frameworks and tools I work with:
+
+![My Skills](https://skillicons.dev/icons?i=html,css,materialui,figma,js,ts,react,nextjs,vite)
+
+![My Skills](https://skillicons.dev/icons?i=java,nodejs,maven,docker,postgres)
+
+![My Skills](https://skillicons.dev/icons?i=azure,netlify,vercel)
+
+![My Skills](https://skillicons.dev/icons?i=git,idea,vscode,postman)
+
+## ⚡ Stats ⚡:
+<div align=center>
+  <img width=325 align="center" src="https://github-readme-stats-Emilianalila.vercel.app/api/top-langs/?username=Emilianalila&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+
+## 🌱 Currently learning:
+- Improving my knowledge of cloud services (Google Cloud, Supabase)
+
+## 📫 How to reach me:
+<div align="center"> 
+  <a href="https://www.linkedin.com/in/emiliana-e-971b26202/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
 
 

@@ -14,16 +14,14 @@ Here are some of the languages, frameworks and tools I work with:
 
 ![My Skills](https://skillicons.dev/icons?i=java,nodejs,maven,docker,postgres)
 
-![My Skills](https://skillicons.dev/icons?i=azure,netlify,vercel)
-
-![My Skills](https://skillicons.dev/icons?i=git,idea,vscode,postman)
+![My Skills](https://skillicons.dev/icons?i=azure,netlify,vercel,git,idea,vscode,postman)
 
 
 ## 🌱 Currently learning:
 - Improving my knowledge of cloud services (Google Cloud, Supabase)
 
 ## 📫 How to reach me:
-<div align="center"> 
+<div align="left"> 
   <a href="https://www.linkedin.com/in/emiliana-e-971b26202/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>

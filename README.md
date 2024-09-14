@@ -10,7 +10,7 @@ Currently living in Sweden 🇸🇪.
 ## 🛠 Tech Stack 🛠:
 Here are some of the languages, frameworks and tools I work with:
 
-![My Skills](https://skillicons.dev/icons?i=html,css,materialui,figma,js,ts,react,nextjs,vite)
+![My Skills](https://skillicons.dev/icons?i=figma,html,css,tailwind,materialui,js,ts,react,nextjs,vite)
 
 ![My Skills](https://skillicons.dev/icons?i=java,nodejs,maven,docker,postgres,azure,netlify,vercel,git,idea,vscode,postman)
 

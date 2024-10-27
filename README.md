@@ -15,7 +15,7 @@ Here are some of the languages, frameworks and tools I work with:
 ![My Skills](https://skillicons.dev/icons?i=java,nodejs,maven,docker,postgres,azure,netlify,vercel,git,idea,vscode,postman)
 
 ## 🌱 Currently learning:
-- Improving my knowledge of cloud services (Google Cloud, Supabase)
+- Improving my knowledge of cloud services (Google Cloud)
 
 ## 📫 How to reach me:
 <div align="left"> 

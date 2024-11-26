@@ -10,9 +10,9 @@ Currently living in Sweden 🇸🇪.
 ## 🛠 Tech Stack 🛠:
 Here are some of the languages, frameworks and tools I work with:
 
-![My Skills](https://skillicons.dev/icons?i=figma,html,css,tailwind,materialui,js,ts,react,vite)
+Figma,HTML,CSS,Tailwind,MaterialUI,JavaSripts,TypeScript,React,Vite.
 
-![My Skills](https://skillicons.dev/icons?i=java,nodejs,maven,docker,postgres,azure,netlify,vercel,git,idea,vscode,postman)
+Java,Nodejs,Maven,Docker,Postgres,Azure,Netlify,Vercel,Git,Idea,VScode,Postman.
 
 ## 🌱 Currently learning:
 - Improving my knowledge of cloud services (Google Cloud)

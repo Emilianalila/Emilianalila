@@ -1,6 +1,6 @@
 ## Hi there! 👋 I'm Emiliana
 
-A passionate software developer from Argentina 🇦🇷.
+A passionate Software developer from Argentina 🇦🇷.
 <br>
 Currently living in Sweden 🇸🇪.
 

@@ -16,7 +16,7 @@ Java, Nodejs, Maven, Docker, Postgres, Azure, Netlify, Vercel, Git, Idea, VScode
 ## 🌱 Currently learning:
 - Improving my knowledge of cloud services (Google Cloud)
 
-## 📫 How to reach me:
+## How to reach me:
 <div align="left"> 
   <a href="https://www.linkedin.com/in/emiliana-e-971b26202/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>

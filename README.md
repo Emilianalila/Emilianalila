@@ -8,11 +8,10 @@ Currently living in Sweden 🇸🇪.
 **Salt** - As a Full Stack Developer.
 
 ## 🛠 Tech Stack 🛠:
-Here are some of the languages, frameworks and tools I work with:
 
-Figma,HTML,CSS,Tailwind,MaterialUI,JavaSripts,TypeScript,React,Vite.
+Figma, HTML, CSS, Tailwind, MaterialUI, JavaSripts, TypeScript, React, Vite.
 
-Java,Nodejs,Maven,Docker,Postgres,Azure,Netlify,Vercel,Git,Idea,VScode,Postman.
+Java, Nodejs, Maven, Docker, Postgres, Azure, Netlify, Vercel, Git, Idea, VScode, Postman.
 
 ## 🌱 Currently learning:
 - Improving my knowledge of cloud services (Google Cloud)

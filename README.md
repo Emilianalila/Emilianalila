@@ -7,7 +7,7 @@ Currently living in Sweden 🇸🇪.
 ## 👩🏻‍💻 Currently working at:
 **Salt** - As a Full Stack Developer.
 
-## 🛠 Tech Stack 🛠:
+## 🛠 Tech Stack:
 
 Figma, HTML, CSS, Tailwind, MaterialUI, JavaSripts, TypeScript, React, Vite.
 

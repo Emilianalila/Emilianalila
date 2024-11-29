@@ -5,7 +5,7 @@ A passionate Software developer from Argentina 🇦🇷.
 Currently living in Sweden 🇸🇪.
 
 ## 👩🏻‍💻 Currently working at:
-**Salt** - As a Full Stack Developer.
+**Salt** - As a Java Full Stack Developer.
 
 ## 🛠 Tech Stack:
 

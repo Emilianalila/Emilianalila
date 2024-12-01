@@ -9,7 +9,7 @@ Currently living in Sweden 🇸🇪.
 
 ## 🛠 Tech Stack:
 
-Figma, HTML, CSS, Tailwind, MaterialUI, JavaSripts, TypeScript, React, Vite.
+Figma, HTML, CSS, Tailwind, MaterialUI, JavaSripts, TypeScript, React, Vite, NextJs.
 
 Java, Nodejs, Maven, Docker, Postgres, Azure, Netlify, Vercel, Git, Idea, VScode, Postman.
 

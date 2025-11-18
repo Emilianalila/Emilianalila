@@ -14,7 +14,7 @@ Figma, HTML, CSS, Tailwind, MaterialUI, JavaSripts, TypeScript, React, Vite, Nex
 Java, Nodejs, Maven, Docker, Postgres, Azure, Netlify, Vercel, Git, Idea, VScode, Postman.
 
 ## 🌱 Currently learning:
-- Improving my knowledge of cloud services (Google Cloud).
+- Improving my knowledge of cloud services (AWS).
 
 ## How to reach me:
 <div align="left"> 
